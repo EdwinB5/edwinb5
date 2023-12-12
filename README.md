@@ -48,7 +48,7 @@ Hello, my name is Edwin, I am from Bogota, Colombia and I love programming and b
 
 ##### *References*
 
-*https://dev.to/envoy_/150-badges-for-github-pnk*
+<sup>*https://dev.to/envoy_/150-badges-for-github-pnk*</sup>
 
 <!--
 **EdwinB5/edwinb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
